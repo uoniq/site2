@@ -1,0 +1,11 @@
+body {
+	margin:0;
+	font-family: arial
+}
+.block{
+	height: 50px;
+	background: red;
+}
+.block2{
+	background: red;
+}
